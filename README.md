@@ -1,5 +1,5 @@
 # TimesheetNinjaSuite
-For tracking time and measuring productivity against any and all modules in SuiteCRM.
+Track time and measure productivity against any and all modules in SuiteCRM, including support cases and project tasks. Built in start and stop timer, automatic email and screen pop reminders, PDF timesheet templates, advanced reporting and exporting features. Ideal for generating invoices for your clients.
 
 <img src="https://github.com/CRMExpertsNY/TimesheetNinjaSuite/blob/master/Docs/suitecrm_logo_large.png?raw=true" width="200">
 
