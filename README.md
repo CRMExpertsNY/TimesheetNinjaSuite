@@ -32,3 +32,6 @@ Key Features
 - Setup Hourly Rates - If your hourly rates vary by resource or by user, you can set up a user profile rate for automatically billing and generating an invoice in SuiteCRM.
 - Notify Users Automatically - Timesheets Professional automatically notifies your SuiteCRM users when they have not logged time against a project task via email and screen pops. Perfect for time reporting accuracy and compliance.
 
+For More Information
+============
+For more information, [visit our website](https://crmexpertsny.com/product/timesheet-ninja-monthly/).
